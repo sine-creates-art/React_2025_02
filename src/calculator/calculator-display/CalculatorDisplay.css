@@ -1,0 +1,8 @@
+.calculator-display {
+    background-color: palegreen;
+    font-family: "Roboto Mono";
+    font-size: 1.2em;
+    padding: 0.2em 0.6em;
+    text-align: right;
+    width: 24ch;
+}
